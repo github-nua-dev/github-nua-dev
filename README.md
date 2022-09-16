@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @github-nua-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to the NUA Games Development GitHub account.
 
-<!---
-github-nua-dev/github-nua-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From here you will be able to find the unit project demo files.
+
+If you want to want to view the other courses, check out:
+- Creative Computing at @github-nua-cc
+- User Experience at @github-nua-ux
